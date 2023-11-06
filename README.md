@@ -61,6 +61,10 @@ Data modeling is the process of structuring and organizing data to create relati
 - [x]	Understanding the demands of stakeholders and incorporating them within the dashboards
 - [x]	Learned the importance of asking the right kind of questions.
 
+## Dashboard:
+
+- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNGE0NjEzYTktYWI0Zi00MmI1LWJhOGEtNWM0NTkwMzBiYTMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection) **to interact with the dashboard**
+
 ## Finance View
 
 ![Finance view.gif](https://github.com/APsachan/Business-Insights-360/blob/main/supporting%20files/Finance%20view.gif)
