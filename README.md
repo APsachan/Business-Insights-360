@@ -60,3 +60,30 @@ Data modeling is the process of structuring and organizing data to create relati
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+## Finance View
+
+![Finance view.gif](https://github.com/APsachan/Business-Insights-360/blob/main/supporting%20files/Finance%20view.gif)
+
+## Sales View
+
+![sales view.gif](https://github.com/APsachan/Business-Insights-360/blob/main/supporting%20files/sales%20view.gif)
+
+## Marketing View
+
+![Marketing View.gif](https://github.com/APsachan/Business-Insights-360/blob/main/supporting%20files/Marketing%20View.gif)
+
+## Supply Chain View
+
+![Supply Chain View.gif](https://github.com/APsachan/Business-Insights-360/blob/main/supporting%20files/Supply%20Chain%20View.gif)
+
+## Executive View
+
+![executive view.gif](https://github.com/APsachan/Business-Insights-360/blob/main/supporting%20files/executive%20view.gif)
+
+
+
+
+
+
+
